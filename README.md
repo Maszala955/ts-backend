@@ -61,7 +61,7 @@ L’architecture est découpée de manière claire en **services**, **contrôleu
 
 ```bash
 # 1. Cloner le repo
-git clone <repo-url>
+git clone https://github.com/Maszala955/ts-backend>
 cd ts-backend
 
 # 2. Installer les dépendances
